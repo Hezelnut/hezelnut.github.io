@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liquid 문법 테스트"
-tag:"liquid","test"
+tag: "liquid, test"
 ---
 
 {% if user %}
