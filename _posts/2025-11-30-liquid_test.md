@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Liquid 문법 테스트"
-user:
 tag:"liquid","test"
 ---
 
