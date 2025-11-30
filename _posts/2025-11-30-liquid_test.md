@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liquid 문법 테스트"
-tag: "liquid, test"
+user: "MSB"
 ---
 
 {% if user %}
@@ -43,6 +43,10 @@ page.date = yyyy-mm-dd-postname.md에서 yyyy-mm-dd 를 가져오는 듯
 {%if%} ~ {%endif%} 문
 page.tag가 없어서 성립이 안된 모양임
 제일 위에 tag 를 넣어볼까
+
+tag:"Liquid,test" 실패
+tag:"Liquid","test" 실패
+
 
 
 최근 글 목록
